@@ -1,0 +1,7 @@
+I need some notes. 
+
+1. Curcic et al. (2016). Hurricane-induced waves ... GRL
+- This paper focuses on GLAD drifters and the role of the Stokes drift in their motion. Small section on absolute dispersion with some numbers (10^5).
+- compares A^2 from GLAD drifters with Eulerian and Lagrangian OCM results. 
+2. Complexity of Mesoscale Eddy Diffusivity in the Ocean. GRL. 2020
+- Numerical experiment with diffusion tensor. Shows definition of Tensor with some good refs in this paper (Rypina et al., 2012).
